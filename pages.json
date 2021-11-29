@@ -1,0 +1,328 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "约了摩"
+				//"navigationStyle": "custom",
+
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/agreement",
+			"style": {
+				"navigationBarTitleText": ""
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/auth",
+			"style": {
+				"navigationBarTitleText": "登陆"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/couponList",
+			"style": {
+				"navigationBarTitleText": "优惠券列表"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/invitation",
+			"style": {
+				"navigationBarTitleText": "邀请有礼"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/suggestion",
+			"style": {
+				"navigationBarTitleText": "操作指南"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/technician/technicianList",
+			"style": {
+				"navigationBarTitleText": "技师列表"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianListInner",
+			"style": {
+				"navigationBarTitleText": "技师列表"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianOrderList",
+			"style": {
+				"navigationBarTitleText": "技师端订单列表"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianOrderDetail",
+			"style": {
+				"navigationBarTitleText": "技师端订单详情"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianDetail",
+			"style": {
+				"navigationBarTitleText": "技师详情"
+				//"navigationStyle": "custom",
+
+			}
+		},
+		{
+			"path": "pages/technician/qualificationsImg",
+			"style": {
+				"navigationBarTitleText": "技师资质"
+				//"navigationStyle": "custom",
+
+			}
+		},
+		{
+			"path": "pages/technician/technicianPhoto",
+			"style": {
+				"navigationBarTitleText": "技师照片"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianUploadImg",
+			"style": {
+				"navigationBarTitleText": "上传照片"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/technicianCenter",
+			"style": {
+				"navigationBarTitleText": "技师个人中心"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/cashWithdrawal",
+			"style": {
+				"navigationBarTitleText": "技师提现"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/user/recharge",
+			"style": {
+				"navigationBarTitleText": "充值"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/user/rechargeRecords",
+			"style": {
+				"navigationBarTitleText": "用户记录"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/user/withdrawalRecords",
+			"style": {
+				"navigationBarTitleText": "技师记录"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/offlineTime",
+			"style": {
+				"navigationBarTitleText": "上下线时间"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/technician/offlineTimeManage",
+			"style": {
+				"navigationBarTitleText": "上下线时间管理"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/product/detail",
+			"style": {
+				"navigationBarTitleText": "项目详情"
+				//"navigationStyle": "custom",
+			}
+		},
+		{
+			"path": "pages/set/set",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/user/aboutUs",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/userinfo/userinfo",
+			"style": {
+				"navigationBarTitleText": "修改资料"
+			}
+		},
+		{
+			"path": "pages/public/login",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false,
+					"animationType": "slide-in-bottom"
+				}
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"app-plus": {
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/order/createOrder",
+			"style": {
+				"navigationBarTitleText": "创建订单"
+			}
+		},
+		{
+			"path": "pages/order/overtime",
+			"style": {
+				"navigationBarTitleText": "加钟"
+			}
+		},
+		{
+			"path": "pages/order/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/orderRate",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		},
+		{
+			"path": "pages/order/rateList",
+			"style": {
+				"navigationBarTitleText": "评价列表"
+			}
+		},
+		{
+			"path": "pages/user/collectionList",
+			"style": {
+				"navigationBarTitleText": "技师收藏列表"
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "地址管理"
+			}
+		},
+		{
+			"path": "pages/address/addressManage",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/money/pay",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/money/paySuccess",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		}
+	],
+	"globalStyle": {
+		// "navigationBarTextStyle": "light",
+		// "navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#762654",
+		"backgroundColor": "#f8f8f8"
+	},
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#fa436a",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/1-a.png",
+				"selectedIconPath": "static/1.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/technician/technicianList",
+				"iconPath": "static/2-a.png",
+				"selectedIconPath": "static/2.png",
+				"text": "技师"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/3-a.png",
+				"selectedIconPath": "static/3.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/4-a.png",
+				"selectedIconPath": "static/4.png",
+				"text": "我的"
+			}
+		]
+	},
+	"permission": {
+		"scope.userLocation": {
+			"desc": "你的位置信息将用于小程序位置接口的效果展示" // 高速公路行驶持续后台定位
+		},
+		"scope.userLocationBackground": {
+			"desc": "你的位置信息将用于小程序位置接口的效果展示" // 高速公路行驶持续后台定位
+		},
+		"scope.userInfo": {
+			"desc": "你的用户信息将用于小程序的效果展示"
+		}
+	},
+	"requiredBackgroundModes": [
+		"location"
+	]
+}
